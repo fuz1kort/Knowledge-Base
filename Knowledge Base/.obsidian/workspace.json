@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET/Введение.md",
+                "file": "ASP.NET/2. Внутреннее устройство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение"
+              "title": "2. Внутреннее устройство"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET/Введение.md",
+                "file": "ASP.NET/2. Внутреннее устройство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Введение"
+              "title": "Backlinks for 2. Внутреннее устройство"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET/Введение.md",
+                "file": "ASP.NET/2. Внутреннее устройство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Введение"
+              "title": "Outgoing links from 2. Внутреннее устройство"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET/Введение.md",
+                "file": "ASP.NET/2. Внутреннее устройство.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Введение"
+              "title": "Outline of 2. Внутреннее устройство"
             }
           }
         ]
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f454b7f77de9a10",
+  "active": "d8d551afdb3ee7ba",
   "lastOpenFiles": [
-    "ASP.NET/Внутреннее устройство.md",
-    "ASP.NET/Введение.md",
+    "ASP.NET/1. Введение.md",
+    "ASP.NET/2. Внутреннее устройство.md",
     "ASP.NET",
     "create a link.md"
   ]
